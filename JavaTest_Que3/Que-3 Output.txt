@@ -1,0 +1,5 @@
+Please Enter the value of N : 
+4
+Now Enter the value of R : 
+3
+The Value of 4C3 = 4

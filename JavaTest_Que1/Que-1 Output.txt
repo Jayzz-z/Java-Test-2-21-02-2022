@@ -1,0 +1,5 @@
+Enter consumer no. and meter readings : 
+ABC2012345
+ABC2012660
+4
+1260
